@@ -19,7 +19,7 @@ const Topbar = () => {
     '
 		>
 			<div className='flex gap-2 items-center'>
-				<img src='/spotify.png' className='size-8' alt='Spotify logo' />
+				<img src='https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/music-logo-design.jpg' className='size-8' alt='logo' />
 				Spotify
 			</div>
 			<div className='flex items-center gap-4'>
